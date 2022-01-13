@@ -7,7 +7,7 @@ public class Test {
     public static void main(String[] args) {
 
         List<Receipt> receiptsList = ReceiptBuilder.generateReceiptList();
-        receiptsList.stream().forEach(System.out::println);
+        receiptsList.forEach(System.out::println);
         RecepitStrategyContext recepitStrategyContext = new RecepitStrategyContext();
         for (Receipt receipt : receiptsList) {
             IReceiptHandleStrategy receiptHandleStrategy = ReceiptHandleStrategyFactory.getReceiptHandleStrategy(receipt.getType());

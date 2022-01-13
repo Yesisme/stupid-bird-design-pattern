@@ -1,12 +1,33 @@
 package com.lym.design.pattern.build.v1;
 
-public abstract class CarBuild {
+public class CarBuild extends AbstractCarBuild {
 
-    abstract void buildCarName(String carName);
-    abstract void buildCarTyre(String carTyre);
-    abstract void buildCarEngine(String carEngine);
-    abstract void buildCarBasePlate(String basePlate);
+    public CarBuild() {
+        car = new Car();
+    }
 
-    abstract Car makeCar();
+    @Override
+    AbstractCarBuild buildCarName(String carName) {
+        car.setCarName(carName);
+        return this;
+    }
+
+    @Override
+    AbstractCarBuild buildCarTyre(String carTyre) {
+        car.setCarTyre(carTyre);
+        return this;
+    }
+
+    @Override
+    AbstractCarBuild buildCarEngine(String carEngine) {
+        car.setCarEngine(carEngine);
+        return this;
+    }
+
+    @Override
+    AbstractCarBuild buildCarBasePlate(String basePlate) {
+        car.setCarBasePlate(basePlate);
+        return this;
+    }
 
 }
