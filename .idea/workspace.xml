@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="672b5dc8-74f0-44da-aefb-afbebf941219" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/structural/adapter/v1/MoviePlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/structural/adapter/v1/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/structural/adapter/v1/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/structural/adapter/v1/Translate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/structural/adapter/v1/ZhTOJPTranslator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/structural/adapter/v1/clazz/JpClazzAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/structural/adapter/v1/clazz/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/structural/adapter/v1/obj/JpObjAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/structural/adapter/v1/obj/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/structural/adapter/v2/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/structural/adapter/v2/DefaultJdbcConnect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/structural/adapter/v2/JavaApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/structural/adapter/v2/JdbcConnect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/structural/adapter/v2/clazz/MysqlJdbcAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/structural/adapter/v2/clazz/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/structural/adapter/v2/obj/MysqlJdbccAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/structural/adapter/v2/obj/MysqlTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/structural/adapter/v2/obj/OracelTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/structural/adapter/v2/obj/OracleJdbcAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/structural/bridge/v1/AbstractPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/structural/bridge/v1/AbstractSale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/structural/bridge/v1/Iphone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/structural/bridge/v1/MiPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/structural/bridge/v1/OfflineSale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/structural/bridge/v1/OnlineSale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/structural/bridge/v1/StudentSale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/structural/bridge/v1/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/structural/bridge/v2/AbstractCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/structural/bridge/v2/AbstractRoad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/structural/bridge/v2/BusCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/structural/bridge/v2/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/structural/bridge/v2/SpeedWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/structural/bridge/v2/StreetRoad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/structural/bridge/v2/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/behavioral/chain/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/behavioral/chain/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/behavioral/chain/ext/CharacterFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/behavioral/chain/ext/EncodingFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/behavioral/chain/ext/Filter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/behavioral/chain/ext/FilterChain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/behavioral/chain/ext/HttpFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/behavioral/chain/ext/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/behavioral/chain/ext/My.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/behavioral/chain/ext/Request.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/behavioral/chain/ext/Response.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/behavioral/command/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/behavioral/command/LeiReceiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/behavioral/command/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/behavioral/command/OnlineCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/behavioral/command/TeacherTongInvoker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/behavioral/command/WuHanTravelCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/behavioral/interpreter/Area.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/behavioral/interpreter/IDCardExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/behavioral/interpreter/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/behavioral/interpreter/OrExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/behavioral/interpreter/TerminalExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/behavioral/iterator/BeautifulMan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/behavioral/iterator/MaYuCheng.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/behavioral/iterator/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/behavioral/mediator/Captain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/behavioral/mediator/ControlTower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/behavioral/mediator/HU8778.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/behavioral/mediator/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/behavioral/mediator/SC8633.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/behavioral/mediator/XC9527.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/behavioral/memento/GameRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/behavioral/memento/GameServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/behavioral/memento/LeiGamer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/behavioral/memento/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/behavioral/observer/AbstractFans.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/behavioral/observer/AbstractTikToker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/behavioral/observer/HumanFans.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/behavioral/observer/MMTikToker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/behavioral/observer/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/behavioral/observer/RobotFans.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/behavioral/state/BeafNodleState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/behavioral/state/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/behavioral/state/MatchState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/behavioral/state/SKTTeam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/behavioral/state/TeamState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/behavioral/state/VocationState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/behavioral/strategy/GameStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/behavioral/strategy/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/behavioral/strategy/RandomStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/behavioral/strategy/SteadyStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/behavioral/strategy/TeamGNR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/behavioral/strategy/UziStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/behavioral/template/AutoCookMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/behavioral/template/CookTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/behavioral/template/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/behavioral/visitor/CPU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/behavioral/visitor/Disk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/behavioral/visitor/Foot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/behavioral/visitor/Hardware.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/behavioral/visitor/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/behavioral/visitor/UpdatePackage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/behavioral/visitor/Vistor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/behavioral/visitor/XiaoAi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/structural/adapter/JPMovieAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/structural/adapter/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/structural/adapter/MoviePlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/structural/adapter/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/structural/adapter/Translator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/structural/adapter/Zh_JPTranslator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/structural/adapter/clazz/JPMoviePlayerAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/structural/adapter/clazz/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/structural/adapter/obj/JPMoviePlayerAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/structural/adapter/obj/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/structural/bridge/AbstractPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/structural/bridge/AbstractSale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/structural/bridge/IPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/structural/bridge/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/structural/bridge/MiPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/structural/bridge/OfflineSale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/structural/bridge/OnlineSale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/structural/bridge/StudentSale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/structural/composite/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/structural/composite/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/structural/decorator/LeiTikTok.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/structural/decorator/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/structural/decorator/ManTikTok.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/structural/decorator/MeiYanDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/structural/decorator/TiktokDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/structural/decorator/ZhangTikTok.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/structural/facade/Edu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/structural/facade/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/structural/facade/Police.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/structural/facade/Social.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/structural/facade/WeiXinFacade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/structural/flyweight/AbstractWaitressFlyweight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/structural/flyweight/BeautifulWaitress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/structural/flyweight/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/structural/flyweight/ZuDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/structural/proxy/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/structural/proxy/cglib/CglibProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/structural/proxy/cglib/CglibTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/structural/proxy/cglib/LeiTikTok.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/structural/proxy/dynamic/JdkTiktokProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/structural/proxy/dynamic/LeiTikTok.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/structural/proxy/dynamic/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/structural/proxy/dynamic/ManTikTok.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/structural/proxy/dynamic/SellTikTok.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/structural/proxy/statics/LeiTikTok.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/structural/proxy/statics/LiMingTiktokProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/structural/proxy/statics/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/structural/proxy/statics/ManTikTok.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/structural/proxy/statics/ZhangTikTok.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/build/v1/AbstractCarBuild.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/build/v1/AbstractCarBuild.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/build/v1/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/build/v1/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/build/v1/CarBuild.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/build/v1/CarBuild.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/build/v1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/build/v1/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/build/v2/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/build/v2/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/build/v2/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/build/v2/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/build/v3/Home.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/build/v3/Home.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/build/v3/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/build/v3/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/factory/abstractFactory/v1/AudiBicycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/factory/abstractFactory/v1/AudiBicycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/factory/abstractFactory/v1/AudiCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/factory/abstractFactory/v1/AudiCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/factory/abstractFactory/v1/AudiFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/factory/abstractFactory/v1/AudiFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/factory/abstractFactory/v1/Bicycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/factory/abstractFactory/v1/Bicycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/factory/abstractFactory/v1/BingleyBicycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/factory/abstractFactory/v1/BingleyBicycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/factory/abstractFactory/v1/BingleyCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/factory/abstractFactory/v1/BingleyCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/factory/abstractFactory/v1/BingleyFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/factory/abstractFactory/v1/BingleyFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/factory/abstractFactory/v1/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/factory/abstractFactory/v1/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/factory/abstractFactory/v1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/factory/abstractFactory/v1/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/factory/abstractFactory/v1/TrafficFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/factory/abstractFactory/v1/TrafficFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/factory/abstractFactory/v2/BusinessCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/factory/abstractFactory/v2/BusinessCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/factory/abstractFactory/v2/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/factory/abstractFactory/v2/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/factory/abstractFactory/v2/CommonMask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/factory/abstractFactory/v2/CommonMask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/factory/abstractFactory/v2/Mask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/factory/abstractFactory/v2/Mask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/factory/abstractFactory/v2/MiniCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/factory/abstractFactory/v2/MiniCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/factory/abstractFactory/v2/N95Mask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/factory/abstractFactory/v2/N95Mask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/factory/abstractFactory/v2/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/factory/abstractFactory/v2/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/factory/abstractFactory/v2/factory/BMCarFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/factory/abstractFactory/v2/factory/BMCarFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/factory/abstractFactory/v2/factory/BusinessFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/factory/abstractFactory/v2/factory/BusinessFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/factory/abstractFactory/v2/factory/CommonMaskFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/factory/abstractFactory/v2/factory/CommonMaskFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/factory/abstractFactory/v2/factory/MiniCarFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/factory/abstractFactory/v2/factory/MiniCarFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/factory/abstractFactory/v2/factory/N95MaskFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/factory/abstractFactory/v2/factory/N95MaskFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/factory/abstractFactory/v3/AbstarctMask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/factory/abstractFactory/v3/AbstarctMask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/factory/abstractFactory/v3/AbstractCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/factory/abstractFactory/v3/AbstractCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/factory/abstractFactory/v3/BusinessCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/factory/abstractFactory/v3/BusinessCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/factory/abstractFactory/v3/CommonMask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/factory/abstractFactory/v3/CommonMask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/factory/abstractFactory/v3/MiniCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/factory/abstractFactory/v3/MiniCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/factory/abstractFactory/v3/N95Mask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/factory/abstractFactory/v3/N95Mask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/factory/abstractFactory/v3/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/factory/abstractFactory/v3/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/factory/abstractFactory/v3/factory/BYDCarFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/factory/abstractFactory/v3/factory/BYDCarFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/factory/abstractFactory/v3/factory/BYDFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/factory/abstractFactory/v3/factory/BYDFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/factory/abstractFactory/v3/factory/BYDMaskFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/factory/abstractFactory/v3/factory/BYDMaskFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/factory/abstractFactory/v3/factory/BusinessBYDCarFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/factory/abstractFactory/v3/factory/BusinessBYDCarFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/factory/abstractFactory/v3/factory/CommonMasKFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/factory/abstractFactory/v3/factory/CommonMasKFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/factory/abstractFactory/v3/factory/MaskFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/factory/abstractFactory/v3/factory/MaskFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/factory/abstractFactory/v3/factory/MiniBYDCarFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/factory/abstractFactory/v3/factory/MiniBYDCarFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/factory/abstractFactory/v3/factory/N95MasKFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/factory/abstractFactory/v3/factory/N95MasKFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/factory/factoryMethod/AudiCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/factory/factoryMethod/AudiCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/factory/factoryMethod/AudiCarFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/factory/factoryMethod/AudiCarFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/factory/factoryMethod/BingleyCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/factory/factoryMethod/BingleyCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/factory/factoryMethod/BingleyCarFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/factory/factoryMethod/BingleyCarFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/factory/factoryMethod/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/factory/factoryMethod/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/factory/factoryMethod/CarFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/factory/factoryMethod/CarFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/factory/factoryMethod/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/factory/factoryMethod/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/factory/simpleFactory/AudiCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/factory/simpleFactory/AudiCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/factory/simpleFactory/BingleyCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/factory/simpleFactory/BingleyCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/factory/simpleFactory/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/factory/simpleFactory/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/factory/simpleFactory/CarFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/factory/simpleFactory/CarFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/factory/simpleFactory/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/factory/simpleFactory/Test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/factory/simpleFactory/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/factory/simpleFactory/Test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/prototype/v1/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/prototype/v1/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/prototype/v1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/prototype/v1/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/proxy/cglib/BaseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/structural/proxy/cglib/BaseService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/proxy/cglib/BaseServiceProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/structural/proxy/cglib/BaseServiceProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/proxy/cglib/PayServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/structural/proxy/cglib/PayServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/proxy/cglib/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/structural/proxy/cglib/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/proxy/jdk/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/structural/proxy/jdk/Subject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/proxy/jdk/SubjectImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/structural/proxy/jdk/SubjectImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/proxy/jdk/SubjectProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/structural/proxy/jdk/SubjectProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/proxy/jdk/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/structural/proxy/jdk/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/singleton/container/ContainerSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/singleton/container/ContainerSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/singleton/container/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/singleton/container/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/singleton/enumSingleton/EunmSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/singleton/enumSingleton/EunmSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/singleton/enumSingleton/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/singleton/enumSingleton/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/singleton/hungry/HungrySingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/singleton/hungry/HungrySingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/singleton/hungry/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/singleton/hungry/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/singleton/lazy/doubleCheck/DoubleCheckSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/singleton/lazy/doubleCheck/DoubleCheckSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/singleton/lazy/doubleCheck/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/singleton/lazy/doubleCheck/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/singleton/lazy/synchronizedSingleton/LazySynchronizedSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/singleton/lazy/synchronizedSingleton/LazySynchronizedSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/singleton/lazy/synchronizedSingleton/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/singleton/lazy/synchronizedSingleton/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/singleton/staticSingleton/StaticSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/singleton/staticSingleton/StaticSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/singleton/staticSingleton/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/singleton/staticSingleton/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/singleton/threadLocal/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/singleton/threadLocal/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/singleton/threadLocal/ThreadInstance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/creational/singleton/threadLocal/ThreadInstance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/strategy/v1/IReceiptHandleStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/behavioral/strategy/v1/IReceiptHandleStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/strategy/v1/Mt1101ReceiptHandleStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/behavioral/strategy/v1/Mt1101ReceiptHandleStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/strategy/v1/Mt2101ReceiptHandleStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/behavioral/strategy/v1/Mt2101ReceiptHandleStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/strategy/v1/Mt8104ReceiptHandleStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/behavioral/strategy/v1/Mt8104ReceiptHandleStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/strategy/v1/Mt9999ReceiptHandleStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/behavioral/strategy/v1/Mt9999ReceiptHandleStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/strategy/v1/Receipt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/behavioral/strategy/v1/Receipt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/strategy/v1/ReceiptBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/behavioral/strategy/v1/ReceiptBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/strategy/v1/ReceiptHandleStrategyFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/behavioral/strategy/v1/ReceiptHandleStrategyFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/strategy/v1/RecepitStrategyContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/behavioral/strategy/v1/RecepitStrategyContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/strategy/v1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/behavioral/strategy/v1/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/template/v1/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/behavioral/template/v1/Course.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/template/v1/FECourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/behavioral/template/v1/FECourse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/template/v1/JavaCourese.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/behavioral/template/v1/JavaCourese.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/template/v1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lym/design/pattern/behavioral/template/v1/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stupid-bird-design-pattern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/stupid-bird-design-pattern.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/build/v1/AbstractCarBuild.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/build/v1/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/build/v1/CarBuild.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/build/v1/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/build/v2/Car$CarBuild.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/build/v2/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/build/v2/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/build/v3/Home$HomeBuild.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/build/v3/Home.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/build/v3/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/factory/abstractFactory/v1/AudiBicycle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/factory/abstractFactory/v1/AudiCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/factory/abstractFactory/v1/AudiFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/factory/abstractFactory/v1/Bicycle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/factory/abstractFactory/v1/BingleyBicycle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/factory/abstractFactory/v1/BingleyCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/factory/abstractFactory/v1/BingleyFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/factory/abstractFactory/v1/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/factory/abstractFactory/v1/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/factory/abstractFactory/v1/TrafficFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/factory/abstractFactory/v2/BusinessCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/factory/abstractFactory/v2/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/factory/abstractFactory/v2/CommonMask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/factory/abstractFactory/v2/Mask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/factory/abstractFactory/v2/MiniCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/factory/abstractFactory/v2/N95Mask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/factory/abstractFactory/v2/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/factory/abstractFactory/v2/factory/BMCarFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/factory/abstractFactory/v2/factory/BusinessFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/factory/abstractFactory/v2/factory/CommonMaskFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/factory/abstractFactory/v2/factory/MiniCarFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/factory/abstractFactory/v2/factory/N95MaskFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/factory/abstractFactory/v3/AbstarctMask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/factory/abstractFactory/v3/AbstractCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/factory/abstractFactory/v3/BusinessCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/factory/abstractFactory/v3/CommonMask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/factory/abstractFactory/v3/MiniCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/factory/abstractFactory/v3/N95Mask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/factory/abstractFactory/v3/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/factory/abstractFactory/v3/factory/BYDCarFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/factory/abstractFactory/v3/factory/BYDFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/factory/abstractFactory/v3/factory/BYDMaskFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/factory/abstractFactory/v3/factory/BusinessBYDCarFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/factory/abstractFactory/v3/factory/CommonMasKFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/factory/abstractFactory/v3/factory/MaskFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/factory/abstractFactory/v3/factory/MiniBYDCarFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/factory/abstractFactory/v3/factory/N95MasKFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/factory/factoryMethod/AudiCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/factory/factoryMethod/AudiCarFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/factory/factoryMethod/BingleyCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/factory/factoryMethod/BingleyCarFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/factory/factoryMethod/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/factory/factoryMethod/CarFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/factory/factoryMethod/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/factory/simpleFactory/AudiCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/factory/simpleFactory/BingleyCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/factory/simpleFactory/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/factory/simpleFactory/CarFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/factory/simpleFactory/Test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/factory/simpleFactory/Test2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/prototype/v1/Car$User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/prototype/v1/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/prototype/v1/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/proxy/cglib/BaseService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/proxy/cglib/BaseServiceProxy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/proxy/cglib/PayServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/proxy/cglib/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/proxy/jdk/Subject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/proxy/jdk/SubjectImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/proxy/jdk/SubjectProxy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/proxy/jdk/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/singleton/container/ContainerSingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/singleton/container/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/singleton/enumSingleton/EunmSingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/singleton/enumSingleton/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/singleton/hungry/HungrySingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/singleton/hungry/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/singleton/lazy/doubleCheck/DoubleCheckSingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/singleton/lazy/doubleCheck/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/singleton/lazy/synchronizedSingleton/LazySynchronizedSingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/singleton/lazy/synchronizedSingleton/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/singleton/staticSingleton/StaticSingleton$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/singleton/staticSingleton/StaticSingleton$inner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/singleton/staticSingleton/StaticSingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/singleton/staticSingleton/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/singleton/threadLocal/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/singleton/threadLocal/ThreadInstance$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/singleton/threadLocal/ThreadInstance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/strategy/v1/IReceiptHandleStrategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/strategy/v1/Mt1101ReceiptHandleStrategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/strategy/v1/Mt2101ReceiptHandleStrategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/strategy/v1/Mt8104ReceiptHandleStrategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/strategy/v1/Mt9999ReceiptHandleStrategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/strategy/v1/Receipt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/strategy/v1/ReceiptBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/strategy/v1/ReceiptHandleStrategyFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/strategy/v1/RecepitStrategyContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/strategy/v1/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/template/v1/Course.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/template/v1/FECourse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/template/v1/JavaCourese.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lym/design/pattern/template/v1/Test.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\Program Files\mavenrepo" />
+        <option name="userSettingsFile" value="F:\Program Files\maven\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="23Sm4JIzkBmSRjt2rzeKLVS82pN" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/com/lym/design/pattern/behavioral" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.saveactions" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\workspace\personal\stupid-bird-design-pattern\src\test\java\com\lym\design\pattern\behavioral" />
+      <recent name="F:\workspace\personal\stupid-bird-design-pattern\src\test\java\com\lym\design\pattern\structural" />
+      <recent name="F:\workspace\personal\stupid-bird-design-pattern\src\main\java\com\lym\design\pattern\factory\abstractFactory\v3" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\workspace\personal\stupid-bird-design-pattern\src\test\java\com\lym\design\pattern" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Test (3)">
+    <configuration name="MysqlTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lym.design.pattern.structural.adapter.v2.obj.MysqlTest" />
+      <module name="stupid-bird-design-pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lym.design.pattern.structural.adapter.v2.obj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OracelTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lym.design.pattern.structural.adapter.v2.obj.OracelTest" />
+      <module name="stupid-bird-design-pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lym.design.pattern.structural.adapter.v2.obj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lym.design.pattern.structural.adapter.v2.clazz.Test" />
+      <module name="stupid-bird-design-pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lym.design.pattern.structural.adapter.v2.clazz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lym.design.pattern.structural.bridge.v2.Test" />
+      <module name="stupid-bird-design-pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lym.design.pattern.structural.bridge.v2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lym.design.pattern.structural.bridge.v1.Test" />
+      <module name="stupid-bird-design-pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lym.design.pattern.structural.bridge.v1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lym.design.pattern.creational.factory.abstractFactory.v3.Test" />
+      <module name="stupid-bird-design-pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lym.design.pattern.creational.factory.abstractFactory.v3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lym.design.pattern.structural.adapter.v1.Test" />
+      <module name="stupid-bird-design-pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lym.design.pattern.structural.adapter.v1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lym.design.pattern.creational.factory.abstractFactory.v3.Test" />
+      <module name="stupid-bird-design-pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lym.design.pattern.creational.factory.abstractFactory.v3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test (3)" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.OracelTest" />
+        <item itemvalue="Application.MysqlTest" />
+        <item itemvalue="Application.Test (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="672b5dc8-74f0-44da-aefb-afbebf941219" name="Default Changelist" comment="" />
+      <created>1641735674174</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641735674174</updated>
+      <workItem from="1641735675384" duration="2426000" />
+      <workItem from="1641821038097" duration="2854000" />
+      <workItem from="1641863198284" duration="3427000" />
+      <workItem from="1641890057517" duration="4510000" />
+      <workItem from="1642079664097" duration="6433000" />
+      <workItem from="1642086279694" duration="838000" />
+      <workItem from="1642236289348" duration="19313000" />
+    </task>
+    <servers />
+  </component>
+</project>
