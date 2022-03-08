@@ -1,4 +1,4 @@
-package com.lym.design.pattern.structural.proxy.cglib;
+package com.lym.design.pattern.structural.proxy.dynamic.cglib;
 
 public class PayServiceImpl implements BaseService {
 

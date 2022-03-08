@@ -7,9 +7,9 @@ package com.lym.design.pattern.structural.decorator.v1;
  * @Description 具体装饰角色 珍珠
  * @createTime 2022-01-16 16:09
  */
-public class Pearl extends Dosing{
+public class PearlDecorator extends DosingDecorator {
 
-    public Pearl(IMilkyTea iMilkyTea) {
+    public PearlDecorator(IMilkyTea iMilkyTea) {
         super(iMilkyTea);
     }
 

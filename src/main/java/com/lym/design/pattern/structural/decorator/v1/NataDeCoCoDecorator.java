@@ -4,12 +4,12 @@ package com.lym.design.pattern.structural.decorator.v1;
  * @author yiming.le
  * @version 1.0.0
  * @ClassName NataDeCoCo.java
- * @Description
+ * @Description 椰果装饰器
  * @createTime 2022-01-16 16:07
  */
-public class NataDeCoCo extends Dosing{
+public class NataDeCoCoDecorator extends DosingDecorator {
 
-    public NataDeCoCo(IMilkyTea iMilkyTea) {
+    public NataDeCoCoDecorator(IMilkyTea iMilkyTea) {
         super(iMilkyTea);
     }
 

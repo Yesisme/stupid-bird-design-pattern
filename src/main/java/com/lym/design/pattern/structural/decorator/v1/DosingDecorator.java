@@ -4,14 +4,14 @@ package com.lym.design.pattern.structural.decorator.v1;
  * @author yiming.le
  * @version 1.0.0
  * @ClassName Dosing.java
- * @Description 抽象装饰角色 配料
+ * @Description 抽象装饰角色 配料 装饰器
  * @createTime 2022-01-16 16:05
  */
-public abstract class Dosing implements IMilkyTea{
+public abstract class DosingDecorator implements IMilkyTea{
 
     private IMilkyTea iMilkyTea;
 
-    public Dosing(IMilkyTea iMilkyTea){
+    public DosingDecorator(IMilkyTea iMilkyTea){
         this.iMilkyTea = iMilkyTea;
     }
 

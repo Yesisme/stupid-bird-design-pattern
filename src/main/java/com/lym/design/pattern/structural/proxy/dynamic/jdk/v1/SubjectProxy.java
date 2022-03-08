@@ -1,4 +1,4 @@
-package com.lym.design.pattern.structural.proxy.jdk;
+package com.lym.design.pattern.structural.proxy.dynamic.jdk.v1;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;

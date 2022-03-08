@@ -13,8 +13,8 @@ public class Test {
 
     public static void main(String[] args) {
         IMilkyTea iMilkyTea = new BoBaMilkyTea();
-        Dosing nataDeCoCo = new NataDeCoCo(iMilkyTea);
-        Dosing pearl = new Pearl(nataDeCoCo);
+        DosingDecorator nataDeCoCo = new NataDeCoCoDecorator(iMilkyTea);
+        DosingDecorator pearl = new PearlDecorator(nataDeCoCo);
         pearl.make();
     }
 }
