@@ -1,5 +1,6 @@
 package com.lym.design.pattern.structural.adapter.v1;
 
+
 /**
  * @author yiming.le
  * @version 1.0.0

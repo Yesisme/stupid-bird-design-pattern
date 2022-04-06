@@ -13,18 +13,18 @@ public class MainTest {
         sktTeam.startGame();
 
 
-//        sktTeam.startGame();
-//
-//        sktTeam.nextState();
-//
-//
-//        sktTeam.startGame();
-//
-//        sktTeam.nextState();
-//        sktTeam.startGame();
+        sktTeam.startGame();
+
+        sktTeam.nextState();
 
 
-        state = state.next();
+        sktTeam.startGame();
+
+        sktTeam.nextState();
+        sktTeam.startGame();
+
+
+        /*state = state.next();
         sktTeam.setTeamState(state);
         sktTeam.startGame();
 
@@ -33,6 +33,6 @@ public class MainTest {
         //状态需要维护自己的切换逻辑
         state = state.next();
         sktTeam.setTeamState(state);
-        sktTeam.startGame();
+        sktTeam.startGame();*/
     }
 }
