@@ -20,7 +20,6 @@ public class HouseMediator implements Mediator{
 
     public void putTenant(Tenant tenant) { tenants.put(tenant.name, tenant); }
 
-
     @Override
     public void contact(People from, String message) {
         if(from instanceof Landlord){
