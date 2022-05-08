@@ -4,7 +4,7 @@ package com.lym.design.pattern.structural.flyweight.v1;
  * @author yiming.le
  * @version 1.0.0
  * @ClassName Test.java
- * @Description
+ * @Description 享元模式
  * @createTime 2022-03-08 22:32
  */
 public class Test {
